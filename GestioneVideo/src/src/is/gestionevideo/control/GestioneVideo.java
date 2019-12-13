@@ -5,6 +5,8 @@ import java.util.ArrayList;
 import src.is.gestionevideo.entity.Sport;
 import src.is.gestionevideo.entity.Video;
 
+// TODO: fare in modo che questa classe usi la classe DAO
+
 public class GestioneVideo {
 
 	ArrayList<Video> lista_video;
